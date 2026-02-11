@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAE2D75-AA9A-46C4-A1C2-ECF135A38779}|QLKetQuaGiangDay\\QLKetQuaGiangDay.csproj|c:\\users\\camha\\onedrive\\documents\\kltn\\qlketquagiangday\\qlketquagiangday\\frmhotrophancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAE2D75-AA9A-46C4-A1C2-ECF135A38779}|QLKetQuaGiangDay\\QLKetQuaGiangDay.csproj|solutionrelative:qlketquagiangday\\frmhotrophancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAE2D75-AA9A-46C4-A1C2-ECF135A38779}|QLKetQuaGiangDay\\QLKetQuaGiangDay.csproj|C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\qlketquagiangday\\frmcrosstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAE2D75-AA9A-46C4-A1C2-ECF135A38779}|QLKetQuaGiangDay\\QLKetQuaGiangDay.csproj|solutionrelative:qlketquagiangday\\frmcrosstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAE2D75-AA9A-46C4-A1C2-ECF135A38779}|QLKetQuaGiangDay\\QLKetQuaGiangDay.csproj|C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\qlketquagiangday\\frmcrosstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DAE2D75-AA9A-46C4-A1C2-ECF135A38779}|QLKetQuaGiangDay\\QLKetQuaGiangDay.csproj|solutionrelative:qlketquagiangday\\frmcrosstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1C093A-6FB9-4E03-9572-09D11D7FF065}|QLKetQuaGiangDay.BUS\\QLKetQuaGiangDay.BUS.csproj|C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\qlketquagiangday.bus\\guiemailbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1C093A-6FB9-4E03-9572-09D11D7FF065}|QLKetQuaGiangDay.BUS\\QLKetQuaGiangDay.BUS.csproj|solutionrelative:qlketquagiangday.bus\\guiemailbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1C093A-6FB9-4E03-9572-09D11D7FF065}|QLKetQuaGiangDay.BUS\\QLKetQuaGiangDay.BUS.csproj|C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\qlketquagiangday.bus\\thongkeketquagiangdaybus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1C093A-6FB9-4E03-9572-09D11D7FF065}|QLKetQuaGiangDay.BUS\\QLKetQuaGiangDay.BUS.csproj|solutionrelative:qlketquagiangday.bus\\thongkeketquagiangdaybus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAE2D75-AA9A-46C4-A1C2-ECF135A38779}|QLKetQuaGiangDay\\QLKetQuaGiangDay.csproj|C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\qlketquagiangday\\frmhotrophancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DAE2D75-AA9A-46C4-A1C2-ECF135A38779}|QLKetQuaGiangDay\\QLKetQuaGiangDay.csproj|solutionrelative:qlketquagiangday\\frmhotrophancong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAE2D75-AA9A-46C4-A1C2-ECF135A38779}|QLKetQuaGiangDay\\QLKetQuaGiangDay.csproj|C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\qlketquagiangday\\frmketquaggiangdaytheogv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DAE2D75-AA9A-46C4-A1C2-ECF135A38779}|QLKetQuaGiangDay\\QLKetQuaGiangDay.csproj|solutionrelative:qlketquagiangday\\frmketquaggiangdaytheogv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAE2D75-AA9A-46C4-A1C2-ECF135A38779}|QLKetQuaGiangDay\\QLKetQuaGiangDay.csproj|C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\qlketquagiangday\\frmketquaggiangdaytheogv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAE2D75-AA9A-46C4-A1C2-ECF135A38779}|QLKetQuaGiangDay\\QLKetQuaGiangDay.csproj|solutionrelative:qlketquagiangday\\frmketquaggiangdaytheogv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEB10DD-E561-4D31-9196-174D8C3039C1}|QLKetQuaGiangDay.DAO\\QLKetQuaGiangDay.DAO.csproj|C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\qlketquagiangday.dao\\accessconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEB10DD-E561-4D31-9196-174D8C3039C1}|QLKetQuaGiangDay.DAO\\QLKetQuaGiangDay.DAO.csproj|solutionrelative:qlketquagiangday.dao\\accessconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEB10DD-E561-4D31-9196-174D8C3039C1}|QLKetQuaGiangDay.DAO\\QLKetQuaGiangDay.DAO.csproj|C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\qlketquagiangday.dao\\dbconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEB10DD-E561-4D31-9196-174D8C3039C1}|QLKetQuaGiangDay.DAO\\QLKetQuaGiangDay.DAO.csproj|solutionrelative:qlketquagiangday.dao\\dbconection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAE2D75-AA9A-46C4-A1C2-ECF135A38779}|QLKetQuaGiangDay\\QLKetQuaGiangDay.csproj|C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\qlketquagiangday\\frmketquagiangdaytheomon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAE2D75-AA9A-46C4-A1C2-ECF135A38779}|QLKetQuaGiangDay\\QLKetQuaGiangDay.csproj|solutionrelative:qlketquagiangday\\frmketquagiangdaytheomon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAE2D75-AA9A-46C4-A1C2-ECF135A38779}|QLKetQuaGiangDay\\QLKetQuaGiangDay.csproj|C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\qlketquagiangday\\frmketquagiangdaytheomon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DAE2D75-AA9A-46C4-A1C2-ECF135A38779}|QLKetQuaGiangDay\\QLKetQuaGiangDay.csproj|solutionrelative:qlketquagiangday\\frmketquagiangdaytheomon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAE2D75-AA9A-46C4-A1C2-ECF135A38779}|QLKetQuaGiangDay\\QLKetQuaGiangDay.csproj|C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\qlketquagiangday\\frmketquadanhgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DAE2D75-AA9A-46C4-A1C2-ECF135A38779}|QLKetQuaGiangDay\\QLKetQuaGiangDay.csproj|solutionrelative:qlketquagiangday\\frmketquadanhgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAE2D75-AA9A-46C4-A1C2-ECF135A38779}|QLKetQuaGiangDay\\QLKetQuaGiangDay.csproj|C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\qlketquagiangday\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAE2D75-AA9A-46C4-A1C2-ECF135A38779}|QLKetQuaGiangDay\\QLKetQuaGiangDay.csproj|solutionrelative:qlketquagiangday\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAE2D75-AA9A-46C4-A1C2-ECF135A38779}|QLKetQuaGiangDay\\QLKetQuaGiangDay.csproj|C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\qlketquagiangday\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DAE2D75-AA9A-46C4-A1C2-ECF135A38779}|QLKetQuaGiangDay\\QLKetQuaGiangDay.csproj|solutionrelative:qlketquagiangday\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmHoTroPhanCong.cs",
+              "DocumentMoniker": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay\\frmHoTroPhanCong.cs",
+              "RelativeDocumentMoniker": "QLKetQuaGiangDay\\frmHoTroPhanCong.cs",
+              "ToolTip": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay\\frmHoTroPhanCong.cs",
+              "RelativeToolTip": "QLKetQuaGiangDay\\frmHoTroPhanCong.cs",
+              "ViewState": "AQIAABcBAAAAAAAAAAAvwCoBAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:49:04.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCrossTable.cs",
+              "DocumentMoniker": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay\\frmCrossTable.cs",
+              "RelativeDocumentMoniker": "QLKetQuaGiangDay\\frmCrossTable.cs",
+              "ToolTip": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay\\frmCrossTable.cs",
+              "RelativeToolTip": "QLKetQuaGiangDay\\frmCrossTable.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAtwJMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:57:00.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GuiEmailBus.cs",
+              "DocumentMoniker": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay.BUS\\GuiEmailBus.cs",
+              "RelativeDocumentMoniker": "QLKetQuaGiangDay.BUS\\GuiEmailBus.cs",
+              "ToolTip": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay.BUS\\GuiEmailBus.cs",
+              "RelativeToolTip": "QLKetQuaGiangDay.BUS\\GuiEmailBus.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAswHsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:45:42.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThongKeKetQuaGiangDayBus.cs",
+              "DocumentMoniker": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay.BUS\\ThongKeKetQuaGiangDayBus.cs",
+              "RelativeDocumentMoniker": "QLKetQuaGiangDay.BUS\\ThongKeKetQuaGiangDayBus.cs",
+              "ToolTip": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay.BUS\\ThongKeKetQuaGiangDayBus.cs",
+              "RelativeToolTip": "QLKetQuaGiangDay.BUS\\ThongKeKetQuaGiangDayBus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:45:36.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmHoTroPhanCong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay\\frmHoTroPhanCong.cs",
+              "RelativeDocumentMoniker": "QLKetQuaGiangDay\\frmHoTroPhanCong.cs",
+              "ToolTip": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay\\frmHoTroPhanCong.cs [Design]",
+              "RelativeToolTip": "QLKetQuaGiangDay\\frmHoTroPhanCong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T09:13:09.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccessConnect.cs",
+              "DocumentMoniker": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay.DAO\\AccessConnect.cs",
+              "RelativeDocumentMoniker": "QLKetQuaGiangDay.DAO\\AccessConnect.cs",
+              "ToolTip": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay.DAO\\AccessConnect.cs",
+              "RelativeToolTip": "QLKetQuaGiangDay.DAO\\AccessConnect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:57:32.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbConection.cs",
+              "DocumentMoniker": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay.DAO\\DbConection.cs",
+              "RelativeDocumentMoniker": "QLKetQuaGiangDay.DAO\\DbConection.cs",
+              "ToolTip": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay.DAO\\DbConection.cs",
+              "RelativeToolTip": "QLKetQuaGiangDay.DAO\\DbConection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:57:30.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmKetQuaDanhGia.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay\\frmKetQuaDanhGia.cs",
+              "RelativeDocumentMoniker": "QLKetQuaGiangDay\\frmKetQuaDanhGia.cs",
+              "ToolTip": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay\\frmKetQuaDanhGia.cs [Design]",
+              "RelativeToolTip": "QLKetQuaGiangDay\\frmKetQuaDanhGia.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:26:27.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmCrossTable.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay\\frmCrossTable.cs",
+              "RelativeDocumentMoniker": "QLKetQuaGiangDay\\frmCrossTable.cs",
+              "ToolTip": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay\\frmCrossTable.cs [Design]",
+              "RelativeToolTip": "QLKetQuaGiangDay\\frmCrossTable.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:39:11.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmKetQuaGiangDayTheoMon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay\\frmKetQuaGiangDayTheoMon.cs",
+              "RelativeDocumentMoniker": "QLKetQuaGiangDay\\frmKetQuaGiangDayTheoMon.cs",
+              "ToolTip": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay\\frmKetQuaGiangDayTheoMon.cs [Design]",
+              "RelativeToolTip": "QLKetQuaGiangDay\\frmKetQuaGiangDayTheoMon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:46:19.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmKetQuaGGiangDayTheoGV.cs",
+              "DocumentMoniker": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay\\frmKetQuaGGiangDayTheoGV.cs",
+              "RelativeDocumentMoniker": "QLKetQuaGiangDay\\frmKetQuaGGiangDayTheoGV.cs",
+              "ToolTip": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay\\frmKetQuaGGiangDayTheoGV.cs",
+              "RelativeToolTip": "QLKetQuaGiangDay\\frmKetQuaGGiangDayTheoGV.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAADgv5IAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:45:55.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmKetQuaGGiangDayTheoGV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay\\frmKetQuaGGiangDayTheoGV.cs",
+              "RelativeDocumentMoniker": "QLKetQuaGiangDay\\frmKetQuaGGiangDayTheoGV.cs",
+              "ToolTip": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay\\frmKetQuaGGiangDayTheoGV.cs [Design]",
+              "RelativeToolTip": "QLKetQuaGiangDay\\frmKetQuaGGiangDayTheoGV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:45:38.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmKetQuaGiangDayTheoMon.cs",
+              "DocumentMoniker": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay\\frmKetQuaGiangDayTheoMon.cs",
+              "RelativeDocumentMoniker": "QLKetQuaGiangDay\\frmKetQuaGiangDayTheoMon.cs",
+              "ToolTip": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay\\frmKetQuaGiangDayTheoMon.cs",
+              "RelativeToolTip": "QLKetQuaGiangDay\\frmKetQuaGiangDayTheoMon.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAAnwNkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:43:20.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay\\Form1.cs",
+              "RelativeDocumentMoniker": "QLKetQuaGiangDay\\Form1.cs",
+              "ToolTip": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay\\Form1.cs",
+              "RelativeToolTip": "QLKetQuaGiangDay\\Form1.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAtwHwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:40:53.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay\\Form1.cs",
+              "RelativeDocumentMoniker": "QLKetQuaGiangDay\\Form1.cs",
+              "ToolTip": "C:\\Users\\CamHa\\OneDrive\\Documents\\KLTN\\QLKetQuaGiangDay\\QLKetQuaGiangDay\\Form1.cs [Design]",
+              "RelativeToolTip": "QLKetQuaGiangDay\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T09:40:52.02Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

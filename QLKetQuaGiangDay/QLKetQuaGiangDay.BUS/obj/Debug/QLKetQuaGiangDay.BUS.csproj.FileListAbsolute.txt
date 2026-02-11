@@ -1,0 +1,14 @@
+C:\Users\CamHa\OneDrive\Documents\KLTN\QLKetQuaGiangDay\QLKetQuaGiangDay.BUS\bin\Debug\QLKetQuaGiangDay.BUS.dll
+C:\Users\CamHa\OneDrive\Documents\KLTN\QLKetQuaGiangDay\QLKetQuaGiangDay.BUS\bin\Debug\QLKetQuaGiangDay.BUS.pdb
+C:\Users\CamHa\OneDrive\Documents\KLTN\QLKetQuaGiangDay\QLKetQuaGiangDay.BUS\bin\Debug\QLKetQuaGiangDay.DAO.dll
+C:\Users\CamHa\OneDrive\Documents\KLTN\QLKetQuaGiangDay\QLKetQuaGiangDay.BUS\bin\Debug\QLKetQuaGiangDay.DAO.pdb
+C:\Users\CamHa\OneDrive\Documents\KLTN\QLKetQuaGiangDay\QLKetQuaGiangDay.BUS\obj\Debug\QLKetQuaGiangDay.BUS.csproj.AssemblyReference.cache
+C:\Users\CamHa\OneDrive\Documents\KLTN\QLKetQuaGiangDay\QLKetQuaGiangDay.BUS\obj\Debug\QLKetQuaGiangDay.BUS.csproj.CoreCompileInputs.cache
+C:\Users\CamHa\OneDrive\Documents\KLTN\QLKetQuaGiangDay\QLKetQuaGiangDay.BUS\obj\Debug\QLKetQuaGiangDay.BUS.dll
+C:\Users\CamHa\OneDrive\Documents\KLTN\QLKetQuaGiangDay\QLKetQuaGiangDay.BUS\obj\Debug\QLKetQuaGiangDay.BUS.pdb
+C:\Users\CamHa\OneDrive\Documents\KLTN\QLKetQuaGiangDay\QLKetQuaGiangDay.BUS\bin\Debug\QLKetQuaGiangDay.DTO.dll
+C:\Users\CamHa\OneDrive\Documents\KLTN\QLKetQuaGiangDay\QLKetQuaGiangDay.BUS\bin\Debug\QLKetQuaGiangDay.DTO.pdb
+C:\Users\CamHa\OneDrive\Documents\KLTN\QLKetQuaGiangDay\QLKetQuaGiangDay.BUS\bin\Debug\RtfPipe.dll
+C:\Users\CamHa\OneDrive\Documents\KLTN\QLKetQuaGiangDay\QLKetQuaGiangDay.BUS\obj\Debug\QLKetQua.99C12E50.Up2Date
+C:\Users\CamHa\OneDrive\Documents\KLTN\QLKetQuaGiangDay\QLKetQuaGiangDay.BUS\bin\Debug\Spire.XLS.dll
+C:\Users\CamHa\OneDrive\Documents\KLTN\QLKetQuaGiangDay\QLKetQuaGiangDay.BUS\bin\Debug\Spire.XLS.xml

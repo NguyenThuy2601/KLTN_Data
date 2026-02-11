@@ -1,0 +1,6 @@
+C:\Users\CamHa\OneDrive\Documents\KLTN\QLKetQuaGiangDay\QLKetQuaGiangDay.DTO\bin\Debug\QLKetQuaGiangDay.DTO.dll
+C:\Users\CamHa\OneDrive\Documents\KLTN\QLKetQuaGiangDay\QLKetQuaGiangDay.DTO\bin\Debug\QLKetQuaGiangDay.DTO.pdb
+C:\Users\CamHa\OneDrive\Documents\KLTN\QLKetQuaGiangDay\QLKetQuaGiangDay.DTO\obj\Debug\QLKetQuaGiangDay.DTO.csproj.AssemblyReference.cache
+C:\Users\CamHa\OneDrive\Documents\KLTN\QLKetQuaGiangDay\QLKetQuaGiangDay.DTO\obj\Debug\QLKetQuaGiangDay.DTO.csproj.CoreCompileInputs.cache
+C:\Users\CamHa\OneDrive\Documents\KLTN\QLKetQuaGiangDay\QLKetQuaGiangDay.DTO\obj\Debug\QLKetQuaGiangDay.DTO.dll
+C:\Users\CamHa\OneDrive\Documents\KLTN\QLKetQuaGiangDay\QLKetQuaGiangDay.DTO\obj\Debug\QLKetQuaGiangDay.DTO.pdb
